@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 openai = "*"
+google-generativeai = "*"
 
 [dev-packages]
 
